@@ -1,0 +1,35 @@
+h1 {
+  color: #0dff00;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 800;
+}
+h2{
+  color: #00ff59;
+  font-family: 'Courier New', Courier, monospace;
+}
+p{
+  color: #00ffc3;
+  font-family: 'Courier New';
+}
+a{
+  color: yellow;
+  font-family: 'Courier New';
+  text-decoration: none;
+  text-align: center;
+}
+a:hover{
+  color: red;
+}
+img{
+  box-shadow: 0px 0px 5px #fff;
+  text-align: center;
+  border-radius: 20px;
+}
+img:hover{
+  box-shadow: 0px 0px 10px #fff;
+  text-align: center;
+}
+body {
+  background-color: black;
+  text-align: center;
+}
